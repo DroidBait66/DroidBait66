@@ -1,7 +1,5 @@
-# Welcome
-
-## 💫 About Me:
-I'm a Cybersecurity undergraduate at Northeastern University (Khoury College), expected to graduate in May 2026. I enjoy working on backend systems, security infrastructure, and full-stack applications that make a real-world impact.<br>
+# 💫 About Me:
+I'm Alp, a Cybersecurity undergraduate at Northeastern University (Khoury College), expected to graduate in May 2026. I enjoy working on backend systems, security infrastructure, and full-stack applications that make a real-world impact.<br>
 
 
 ## 🌐 Contact Me:
